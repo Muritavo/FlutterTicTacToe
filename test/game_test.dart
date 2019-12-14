@@ -4,7 +4,7 @@ import 'package:flutter_tic_tac_toe/gameTypes/LocalGame.dart';
 import 'package:flutter_tic_tac_toe/gameTypes/LocalPlayer.dart';
 import "package:test/test.dart";
 
-import 'UseCases.dart';
+import 'enums/UseCases.dart';
 
 void main() {
   group("Local game lifecycle", () {
